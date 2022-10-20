@@ -1,0 +1,37 @@
+.navbar-light .navbar-nav .nav-link {
+    color: #198754;
+    
+}
+.navbar-light .navbar-nav .nav-link:hover {
+    color: red;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+    
+    
+}
+.btn-secondary {
+    color: #fff;
+    background-color: #198754;
+    border-color: #198754;
+
+}
+
+.btn-secondary:hover{
+    background-color: #2d7855;
+}
+
+.btn-outline-secondary {
+    color: #fff;
+    background-color: #198754;
+    border-color: #198754;
+    
+}
+
+.btn-outline-secondary:hover{
+    background-color: #2d7855;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #198754;
+    border-color: #198754;
+}
