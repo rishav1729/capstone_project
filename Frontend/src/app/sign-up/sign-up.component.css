@@ -1,0 +1,66 @@
+.container-fluid{
+    background-color: rgb(193, 250, 152);
+    margin-left: 30%;
+    margin-top: 30px;
+    padding-bottom: 13px;
+    padding-top: 13px;
+    padding-left: 15px;
+    width: 30%;
+    
+}
+.form-group input{
+width: 100%;
+margin: auto;
+margin-bottom: 5px;
+/* margin-left: 10%; */
+}
+#btn{
+    width: 30%;
+}
+input{
+    margin-bottom: 5px;
+}
+button{
+    margin: 5px;
+
+}
+h2{
+    
+    border-bottom: 3px solid rgb(13, 45, 226);
+    text-align: center;
+    color: rgb(235, 111, 53);
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #198754;
+}
+.btn-secondary {
+    color: #fff;
+    background-color: #198754;
+    border-color: #198754;
+
+}
+
+.btn-secondary:hover{
+    background-color: #2d7855;
+}
+
+.btn-outline-secondary {
+    color: #fff;
+    background-color: #198754;
+    border-color: #198754;
+    
+}
+
+.btn-outline-secondary:hover{
+    background-color: #2d7855;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #198754;
+    border-color: #198754;
+}
+.btn-primary:hover{
+    background-color: #2d7855;
+
+}
